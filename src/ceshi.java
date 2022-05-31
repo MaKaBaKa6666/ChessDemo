@@ -8,7 +8,7 @@ public class ceshi {
 
     public static void main(String[] args) throws IOException {
 
-//        File file = new File("resource/asd.txt");//文件路径
+//        File file = new File("resource/asd.txt");//文件路径1
 //        FileReader fileReader = new FileReader(file);
 //        LineNumberReader reader = new LineNumberReader(fileReader);
 //        int number=64;
